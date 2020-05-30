@@ -3,6 +3,8 @@
 we have a lock to the covid19 data in puplic-sector in state of thuringia i relation to the states law of transparency from Jan/2020.
 Some details om https://demenzpflaster.wordpress.com
 
+Focus of observation are data about the essential ressources in hospitals, primary "beds" and otherside ventilators here so called "HighCare" items, also beds for one men.
+
 "Rechtsgrundlagen": (Legal basis)
 
 Versorgungskonzept i.V.m. https://www.tmasgff.de/fileadmin/user_upload/Gesundheit/Dateien/COVID-19/20200407_Versorgungskonzept.pdf
