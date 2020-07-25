@@ -1,5 +1,8 @@
 # BetteninventurTH
 
+https://mybinder.org/v2/gh/pflegende/BetteninventurTH/5b516454245fcaf86c111ab9a7ef449bdec3ac50
+
+
 we have a lock to the covid19 data in puplic-sector in state of thuringia i relation to the states law of transparency from Jan/2020.
 Some details om https://demenzpflaster.wordpress.com
 
