@@ -1,6 +1,15 @@
 # BetteninventurTH
 
+***
+experimental:
+
 https://mybinder.org/v2/gh/pflegende/BetteninventurTH/5b516454245fcaf86c111ab9a7ef449bdec3ac50
+
+and
+
+https://ethercalc.org/covcoTH
+
+***
 
 
 we have a lock to the covid19 data in puplic-sector in state of thuringia i relation to the states law of transparency from Jan/2020.
