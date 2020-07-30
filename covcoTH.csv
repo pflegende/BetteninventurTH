@@ -1,0 +1,42 @@
+info,,dataset1,,dataset2,,dataset3,,dataset4
+https://mybinder.org/v2/gh/pflegende/BetteninventurTH/5b516454245fcaf86c111ab9a7ef449bdec3ac50,"please don't overwrite  some days",25.7.,,26.7.,,"28 Juli 2020 10:39",,"30 Juli 2020 18:41"
+,,3,,3,,3,,3
+data-source:,,0,,0,,0,,0
+https://interaktiv.morgenpost.de/data/corona/intensivregister.json,,3,,3,,3,,3
+,,2,,2,,2,,2
+codeBase:,,3,,3,,3,,3
+https://github.com/pflegende/BetteninventurTH/,,"null ",,null,,null,,null
+,,8,,8,,8,,8
+this:,,1,,1,,1,,1
+https://ethercalc.org/covcoTH,,"null ",,null,,null,,null
+,,0,,0,,0,,0
+,,"null ",,null,,null,,null
+,,"null ",,null,,null,,null
+,,"null ",,null,,null,,null
+,,0,,0,,0,,0
+,,0,,0,,0,,0
+,,4,,4,,4,,4
+,,0,,0,,0,,0
+,,1,,1,,1,,1
+,,0,,0,,0,,0
+,,7,,7,,7,,7
+,,2,,2,,2,,2
+,,2,,2,,2,,2
+,,1,,1,,1,,1
+,,5,,5,,5,,5
+,,0,,0,,0,,0
+,,0,,0,,0,,0
+,,"null ",,null,,null,,null
+,,0,,0,,0,,0
+,,"null ",,null,,null,,null
+,,"null ",,null,,null,,null
+,,5,,5,,5,,5
+,,3,,3,,3,,3
+,,0,,0,,0,,0
+,,"null ",,null,,null,,null
+,,0,,0,,0,,0
+,,0,,0,,0,,0
+,,2,,2,,2,,2
+magicFake,,52,,52,,52,0,52
+,,,,,,"""meldezeitpunkt"": ""2020-07-28T04:23:42Z""",,"""meldezeitpunkt"": ""2020-07-30T05:18:54Z"""
+,,,,,,"""id"": ""772841""",,"""id"": ""772842"""
