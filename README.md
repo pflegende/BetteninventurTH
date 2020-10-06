@@ -7,13 +7,12 @@ https://mybinder.org/v2/gh/pflegende/BetteninventurTH/5b516454245fcaf86c111ab9a7
 
 and
 
-[! [Binder] (https://mybinder.org/badge_logo.svg)] (https://mybinder.org/v2/gh/pflegende/BetteninventurTH/https://github.com/pflegende/BetteninventurTH/commit/ 432a7aa565a4fc6c89b9566815a98f6b0297ab1c)
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pflegende/BetteninventurTH/432a7aa)
 
 ***
 
 
-we have a lock to the covid19 data in puplic-sector in state of thuringia i relation to the states law of transparency from Jan/2020.
+we have a look to the covid19 data in puplic-sector in state of thuringia i relation to the states law of transparency from Jan/2020.
 Some details om https://demenzpflaster.wordpress.com
 
 Focus of observation are data about the essential ressources in hospitals, primary "beds" and otherside ventilators here so called "HighCare" items, also beds for one men.
