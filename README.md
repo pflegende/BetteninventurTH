@@ -7,7 +7,8 @@ https://mybinder.org/v2/gh/pflegende/BetteninventurTH/5b516454245fcaf86c111ab9a7
 
 and
 
-https://ethercalc.org/covcoTH
+[! [Binder] (https://mybinder.org/badge_logo.svg)] (https://mybinder.org/v2/gh/pflegende/BetteninventurTH/https://github.com/pflegende/BetteninventurTH/commit/ 432a7aa565a4fc6c89b9566815a98f6b0297ab1c)
+
 
 ***
 
