@@ -1,11 +1,11 @@
 # BetteninventurTH
 
 ***
-experimental:
+depraceted:
 
 https://mybinder.org/v2/gh/pflegende/BetteninventurTH/5b516454245fcaf86c111ab9a7ef449bdec3ac50
 
-and
+better (use catCount - ipynb after Binder deploy):
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pflegende/BetteninventurTH/432a7aa)
 
