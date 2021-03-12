@@ -1,13 +1,25 @@
 # BetteninventurTH
 
 ***
+
+
+start in your browser, keep calm, some delay of 1..2 minutes for deploying the codebase
+
+after apearing the jupyter environment, please restart the kernel with the menueoption for all cells
+
+***JupyterLab***
+[![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/pflegende/BetteninventurTH/blob/master?urlpath=lab/tree/BetteninventurThur-CountCat2ixio.ipynb)
+
+
+***JupyterNotebook***
+[![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/pflegende/BetteninventurTH/blob/master?filepath=BetteninventurThur-CountCat2ixio.ipynb)
+
+
+
+
 depraceted:
 
 https://mybinder.org/v2/gh/pflegende/BetteninventurTH/5b516454245fcaf86c111ab9a7ef449bdec3ac50
-
-better (use catCount - ipynb after Binder deploy):
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pflegende/BetteninventurTH/432a7aa)
 
 ***
 
@@ -40,3 +52,8 @@ https://demenzpflaster.wordpress.com/2020/04/09/tagespflege-schliessung-wegen-co
  --- work in progress ---
  
  
+---
+
+to do:
+
+https://www.google.com/search?client=firefox-b-d&q=badge_logo.svg
