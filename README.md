@@ -41,6 +41,14 @@ DIVI IntensivRegister-Verordnung  https://www.bundesgesundheitsministerium.de/fi
 
 Transparenzgesetz Thüringen http://www.landesrecht-thueringen.de/jportal/;jsessionid=2FDE7C542541C600B694AC5E8F0833FE.jp29?quelle=jlink&query=TranspG+TH&psml=bsthueprod.psml&max=true&aiz=true#jlr-TranspGTHpP7
 
+---
+
+A more intrinsic view on the divi data givs some maps e.g.:
+https://www.intensivregister.de/#/aktuelle-lage/kartenansichten
+
+Our intention is mostly practice with data an find a one klick way to see the often as highlevel Indicator described number of ECMA divisions (ventilators) in the hospitals. This are round about 190 total. And differs in availability between 163 in summer 2020 and 93 in mart 11 2021.
+
+---
 
 history, some basics (in german) :
 
