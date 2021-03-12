@@ -8,11 +8,11 @@ start in your browser, keep calm, some delay of 1..2 minutes for deploying the c
 after apearing the jupyter environment, please restart the kernel with the menueoption for all cells
 
 ***JupyterLab***
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pflegende/BetteninventurTH/blob/master?urlpath=lab/tree/BetteninventurThur-CountCat2ixio.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pflegende/BetteninventurTH/blob/main?urlpath=lab/tree/BetteninventurThur-CountCat2ixio.ipynb)
 
 
 ***JupyterNotebook***
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pflegende/BetteninventurTH/blob/master?filepath=BetteninventurThur-CountCat2ixio.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pflegende/BetteninventurTH/blob/main?filepath=BetteninventurThur-CountCat2ixio.ipynb)
 
 
 
