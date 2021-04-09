@@ -22,7 +22,12 @@ depraceted:
 https://mybinder.org/v2/gh/pflegende/BetteninventurTH/5b516454245fcaf86c111ab9a7ef449bdec3ac50
 
 ***
+update intendet by controversial debate in social media:
 
+_Destruction of beds for intensiv-care in germany?_
+https://correctiv.org/faktencheck/2020/12/03/nein-waehrend-der-pandemie-wurden-nicht-nonstop-intensivbetten-abgebaut/
+
+***
 
 we have a look to the covid19 data in puplic-sector in state of thuringia i relation to the states law of transparency from Jan/2020.
 Some details om https://demenzpflaster.wordpress.com
