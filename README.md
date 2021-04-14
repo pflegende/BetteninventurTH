@@ -22,7 +22,7 @@ depraceted:
 https://mybinder.org/v2/gh/pflegende/BetteninventurTH/5b516454245fcaf86c111ab9a7ef449bdec3ac50
 
 ***
-update intendet by controversial debate in social media:
+update intended by controversial debate in social media:
 
 _Destruction of beds for intensiv-care in germany?_
 https://correctiv.org/faktencheck/2020/12/03/nein-waehrend-der-pandemie-wurden-nicht-nonstop-intensivbetten-abgebaut/
