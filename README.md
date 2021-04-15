@@ -94,6 +94,9 @@ https://github.com/search?q=Th%C3%BCringen&type=Repositories
 
 https://github.com/search?q=Jena&type=Repositories
 
+
+[@OffenesJena](https://github.com/OffenesJena)
+
 [Jena -apache](https://github.com/search?q=Jena+NOT+apache&type=Repositories&ref=advsearch&l=&l=)
 
 [documents related to Hackspace Jena](https://github.com/HackspaceJena/dokumente)  by @HackspaceJena   :)  thx!
