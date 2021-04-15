@@ -34,6 +34,17 @@ Some details om https://demenzpflaster.wordpress.com
 
 Focus of observation are data about the essential ressources in hospitals, primary "beds" and otherside ventilators here so called "HighCare" items, also beds for one men.
 
+
+***
+
+overview as plot (ECMO vs. noECMO as beds in DE)
+
+https://youtu.be/QnEEuhS0CFE
+thx to mdr-wissen
+
+
+***
+
 "Rechtsgrundlagen": (Legal basis)
 
 Versorgungskonzept i.V.m. https://www.tmasgff.de/fileadmin/user_upload/Gesundheit/Dateien/COVID-19/20200407_Versorgungskonzept.pdf
