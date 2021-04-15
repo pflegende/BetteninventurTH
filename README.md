@@ -75,9 +75,45 @@ https://demenzpflaster.wordpress.com/2020/04/20/betteninventur-thueringen-17-04/
 https://demenzpflaster.wordpress.com/2020/04/09/tagespflege-schliessung-wegen-covid19-vergl-betrachtg-noch-i-d-redaktionellen-abstimmung/
  --- work in progress ---
  
- 
+
+***
+
+### related (may be ..) links
+
+[Erfassung und Visualisierung der Corona-Fallzahlen für Thüringen.](https://github.com/micb25/corona-jena)  by @micb25 ;  thx :)  !
+
+
+[Statistics about SARS-CoV-2 outbreak in Thüringen](https://github.com/lekkacat/TH-Corona)  by @lekkacat ; thx  :) !
+
+
+
+
+https://github.com/search?q=thuringia&type=Repositories
+
+https://github.com/search?q=Th%C3%BCringen&type=Repositories
+
+https://github.com/search?q=Jena&type=Repositories
+
+[Jena -apache](https://github.com/search?q=Jena+NOT+apache&type=Repositories&ref=advsearch&l=&l=)
+
+[documents related to Hackspace Jena](https://github.com/HackspaceJena/dokumente)  by @HackspaceJena   :)  thx!
+
+[scripts FSU](https://github.com/qbi/uni-skripte)  by @qbi   :)  thx!
+
+[Ilmenau](https://github.com/search?l=&o=desc&p=1&q=Ilmenau&s=updated&type=Repositories)  ... blue sky, nice town  ;)
+
+[Das Scheitern – Neues Bauhaus Museum Weimar](https://github.com/Studio-TheGreenEyl/scheitern) may be need it sometimes
+
+[openWRT Bash script  #Freifunk #Erfurt](https://github.com/suicider/ffef-herzschlag)   by @suicider  :)  thx!
+
+[2D Welt vom Elisabeth-Gymnasium Eisenach](https://github.com/wak-lab-e-v/2D-Welt-eligym)  by @wak-lab-e-v  :)  thx!
+
+
+
 ---
 
 to do:
 
 https://www.google.com/search?client=firefox-b-d&q=badge_logo.svg
+
+
