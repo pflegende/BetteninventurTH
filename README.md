@@ -115,7 +115,19 @@ https://github.com/search?q=Jena&type=Repositories
 
 ---
 
-to do:
+### to do / some notes to konsolidate:
+
+---
+2020-02-11
+
+seems are 2 upstreams of data in germany:
+* DIVI ... (hospitals, daily -> DIVI)
+* RKI ... [(local healthcare authorities -> RKI)](https://github.com/robert-koch-institut/COVID-19-Hospitalisierungen_in_Deutschland "RKI gh repo")
+* may be interesting compare it -> to do
+* anotating in issues welcome; also suggestions
+
+---
+2020:
 
 https://www.google.com/search?client=firefox-b-d&q=badge_logo.svg
 
