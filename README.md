@@ -142,10 +142,11 @@ seems are 2 upstreams of data in germany:
 
 https://www.google.com/search?client=firefox-b-d&q=badge_logo.svg
 
-
 ---
-:EOF:
+anytime:
 
+https://img.shields.io/website/http/demenzpflaster.joomla.com/path/to/page.html.svg.
+---
 
 ![gh independent: we CARE with zero budget](https://img.shields.io/static/v1?label=weCARE&message=with_zero_budget&color=lightgrey)
 ![GitHub last commit](https://img.shields.io/github/last-commit/pflegende/BetteninventurTH?color=grey)
@@ -160,4 +161,9 @@ https://www.google.com/search?client=firefox-b-d&q=badge_logo.svg
 
 ![Follow us on Twitter?](https://img.shields.io/twitter/follow/pflegedissens?label=Follow&amp;style=social)
 
-![Website Pflegende](https://img.shields.io/website?down_color=red&down_message=sorry_down_call_us&logo=Website%20Pflegende%20&up_color=green&up_message=up&url=https%3A%2F%2Fdemenzpflaster.joomla.com)
+![_not visible_](https://img.shields.io/website?down_color=red&down_message=sorry_down_call_us&label=Website%20Pflegende%20&up_color=green&up_message=up&url=https%3A%2F%2Fdemenzpflaster.joomla.com)  
+* [go to the site itself:](https://demenzpflaster.joomla.com)  
+* [go to LL of all our clouds:](https://linktr.ee/pflegende)
+
+---
+:EOF:
