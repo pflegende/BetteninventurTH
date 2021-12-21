@@ -131,9 +131,11 @@ seems are 2 upstreams of data in germany:
 
 
 ---
-## 
+## realtime DIVI data for state of the ICU's - #2do. not yet solved :((
 
 * go [issue](https://github.com/pflegende/BetteninventurTH/issues/8#issue-1085971592)
+
+
 ---
 2020:
 
