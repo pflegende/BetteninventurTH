@@ -146,6 +146,8 @@ https://www.google.com/search?client=firefox-b-d&q=badge_logo.svg
 ---
 :EOF:
 
+
+![gh independent: we CARE with zero budget](https://img.shields.io/static/v1?label=weCARE&message=with_zero_budget&color=lightgrey)
 ![GitHub last commit](https://img.shields.io/github/last-commit/pflegende/BetteninventurTH?color=grey)
 ![GitHub all releases](https://img.shields.io/github/downloads/pflegende/BetteninventurTH/total)
 ![GitHub language count](https://img.shields.io/github/languages/count/pflegende/BetteninventurTH)
@@ -154,3 +156,8 @@ https://www.google.com/search?client=firefox-b-d&q=badge_logo.svg
 ![GitHub discussions](https://img.shields.io/github/discussions/pflegende/BetteninventurTH?color=yellow)
 ![GitHub forks](https://img.shields.io/github/forks/pflegende/BetteninventurTH?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/pflegende/BetteninventurTH?style=social)
+
+
+![Follow us on Twitter?](https://img.shields.io/twitter/follow/pflegedissens?label=Follow&amp;style=social)
+
+![Website Pflegende](https://img.shields.io/website?down_color=red&down_message=sorry_down_call_us&logo=Website%20Pflegende%20&up_color=green&up_message=up&url=https%3A%2F%2Fdemenzpflaster.joomla.com)
