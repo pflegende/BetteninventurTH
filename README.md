@@ -2,10 +2,34 @@
 
 ***
 
+* Why? We ( home nursing people ) want survive it. And also we want it for our loves one.
+* When? since Begin of Covid19 in germany
+* Where? 🌲🌲🌲 state of thuringia 🌲🌲🌲
+
+<br>🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️
+<br>🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️
+<br>🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️<br>
+Germany counts every deep morning in all >780 ICU stations in hospitals the available beds for ICU and also ecmo. Then you saw somewher in TV or social media the interpretation of this data as maps or charts. We are curios to see the (may be or may not be)"full" development of the data since august 2020. 
+<br>🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️
+<br>🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️
+<br>🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️<br>
+
+
+That is a doing from curosity.
+
+We would like to encourage you to give us evidence and make suggestions, regarding errors and potentials you discovered.
+
+You can self operate in your browser the avaibility of beds on THIS today day for the 3 states in the middle of Europe and germany:
+
+* hesse,
+* thuringia, 
+* saxony.
 
 start in your browser, keep calm, some delay of 1..2 minutes for deploying the codebase
 
 after apearing the jupyter environment, please restart the kernel with the menueoption for all cells
+
+Try it by klicking one of the following two buttons:
 
 ***JupyterLab***
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pflegende/BetteninventurTH/master?urlpath=lab/tree/BetteninventurThur-CountCat2ixio.ipynb)
@@ -116,6 +140,11 @@ https://github.com/search?q=Jena&type=Repositories
 
 ---
 
+We would like to repeat it here again:
+We would like to encourage you to give us evidence and make suggestions, regarding errors and potentials you discovered.
+
+---
+
 ### to do / some notes to konsolidate:
 
 ---
@@ -164,7 +193,7 @@ https://img.shields.io/website/http/demenzpflaster.joomla.com/path/to/page.html.
 
 ![_not visible_](https://img.shields.io/website?down_color=red&down_message=sorry_down_call_us&label=Website%20Pflegende%20&up_color=green&up_message=up&url=https%3A%2F%2Fdemenzpflaster.joomla.com)  
 * [go to the site itself](https://demenzpflaster.joomla.com)  
-* [to meet us](https://linktr.ee/pflegende)
+* 🧑‍🦽👨‍🦳👩‍🦳 ➡️ [to meet us](https://linktr.ee/pflegende) ⬅️: 👨‍🦳👩‍🧑‍🦽🦳
 
 ![Uptime Robot status](https://img.shields.io/uptimerobot/status/m790129794-6d88280073c87ef883c7bd36?label=DP_WP)
 ![Uptime Robot status](https://img.shields.io/uptimerobot/status/m790130194-21af5e9a1aa0d99994111d1e?label=scotch)
@@ -172,4 +201,5 @@ https://img.shields.io/website/http/demenzpflaster.joomla.com/path/to/page.html.
 ![Uptime Robot status](https://img.shields.io/uptimerobot/status/m790130295-6aafb2b5815657c62fb1af37?label=bmk)
 
 ---
-:EOF:
+🚧🚧🚧 :EOF: 🚧🚧🚧
+
