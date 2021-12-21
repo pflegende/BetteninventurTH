@@ -166,5 +166,9 @@ https://img.shields.io/website/http/demenzpflaster.joomla.com/path/to/page.html.
 * [go to the site itself](https://demenzpflaster.joomla.com)  
 * [to meet us](https://linktr.ee/pflegende)
 
+![Uptime Robot status](https://img.shields.io/uptimerobot/status/m790129794-6d88280073c87ef883c7bd36?label=DP_WP)
+![Uptime Robot status](https://img.shields.io/uptimerobot/status/m790130194-21af5e9a1aa0d99994111d1e?label=scotch)
+
+
 ---
 :EOF:
