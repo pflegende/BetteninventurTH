@@ -32,6 +32,7 @@ https://correctiv.org/faktencheck/2020/12/03/nein-waehrend-der-pandemie-wurden-n
 we have a look to the covid19 data in puplic-sector in state of thuringia i relation to the states law of transparency from Jan/2020.
 Some details om https://demenzpflaster.wordpress.com
 
+
 Focus of observation are data about the essential ressources in hospitals, primary "beds" and otherside ventilators here so called "HighCare" items, also beds for one men.
 
 
@@ -142,3 +143,12 @@ seems are 2 upstreams of data in germany:
 https://www.google.com/search?client=firefox-b-d&q=badge_logo.svg
 
 
+---
+:EOF:
+
+![GitHub all releases](https://img.shields.io/github/downloads/pflegende/BetteninventurTH/total)
+![GitHub language count](https://img.shields.io/github/languages/count/pflegende/BetteninventurTH)
+![GitHub top language](https://img.shields.io/github/languages/top/pflegende/BetteninventurTH?color=yellow)
+![Github issues](https://img.shields.io/github/issues/pflegende/BetteninventurTH)
+![GitHub forks](https://img.shields.io/github/forks/pflegende/BetteninventurTH?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/pflegende/BetteninventurTH?style=social)
