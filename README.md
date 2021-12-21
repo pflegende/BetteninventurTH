@@ -125,7 +125,6 @@ seems are 2 upstreams of data in germany:
 * RKI ... [(local healthcare authorities -> RKI)](https://github.com/robert-koch-institut/COVID-19-Hospitalisierungen_in_Deutschland "RKI gh repo")
 * off topic (to compare in germany): DIVI like instance in helvetia: ... (beds, daily) {beds not only stations like in DE}
 * -> #2do [research around this topic helvetia vs, germany ](https://github.com/pflegende/BetteninventurTH/issues/5#issue-1085867783)
-* https://github.com/pflegende/BetteninventurTH/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted+from+community%22
 * may be interesting compare it -> to do
 * [ #2do focused topic around c19-datalinks](https://github.com/pflegende/BetteninventurTH/issues/6#issue-1085880192)
 * anotating in issues welcome; also suggestions
