@@ -150,5 +150,6 @@ https://www.google.com/search?client=firefox-b-d&q=badge_logo.svg
 ![GitHub language count](https://img.shields.io/github/languages/count/pflegende/BetteninventurTH)
 ![GitHub top language](https://img.shields.io/github/languages/top/pflegende/BetteninventurTH?color=yellow)
 ![Github issues](https://img.shields.io/github/issues/pflegende/BetteninventurTH)
+![GitHub discussions](https://img.shields.io/github/discussions/pflegende/BetteninventurTH?color=yellow)
 ![GitHub forks](https://img.shields.io/github/forks/pflegende/BetteninventurTH?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/pflegende/BetteninventurTH?style=social)
