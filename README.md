@@ -105,6 +105,16 @@ https://demenzpflaster.wordpress.com/2020/04/09/tagespflege-schliessung-wegen-co
 
 ### related (may be ..) links
 
+* https://github.com/matthiaslinden/Covid19Model_GER
+* https://github.com/matthiaslinden/Covid19_DayOfOnset_Germany
+* https://github.com/matthiaslinden/covid19_inference_forecast
+* https://github.com/matthiaslinden/RKI_COVID_SituationReport
+
+by https://github.com/matthiaslinden found: https://twitter.com/matthiaslinden/status/1479618438595334148
+
+
+
+
 [Erfassung und Visualisierung der Corona-Fallzahlen für Thüringen.](https://github.com/micb25/corona-jena)  by @micb25 ;  thx :)  !
 
 
