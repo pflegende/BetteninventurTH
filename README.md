@@ -15,7 +15,7 @@ Germany counts every deep morning in all >780 ICU stations in hospitals the avai
 <br>🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️🛏️<br>
 
 
-That is a doing from curosity.
+That is a doing from curiosity.
 
 We would like to encourage you to give us evidence and make suggestions, regarding errors and potentials you discovered.
 
