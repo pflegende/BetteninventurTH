@@ -80,7 +80,7 @@ III. Th.VO Corona https://www.tmasgff.de/fileadmin/user_upload/Gesundheit/Dateie
 
 DIVI IntensivRegister-Verordnung  https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/Gesetze_und_Verordnungen/GuV/D/BAnz_AT_09.04.2020_DIVI.pdf
 
-Transparenzgesetz Thüringen https://landesrecht.thueringen.de/bsth/document/jlr-TranspGTHrahmen
+Thüringer Transparenzgesetz (ThürTG) Vom 10. Oktober 2019 https://landesrecht.thueringen.de/bsth/document/jlr-TranspGTHrahmen
 
 ---
 
