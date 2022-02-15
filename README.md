@@ -74,7 +74,7 @@ thx to mdr-wissen
 
 Versorgungskonzept i.V.m. https://www.tmasgff.de/fileadmin/user_upload/Gesundheit/Dateien/COVID-19/20200407_Versorgungskonzept.pdf
 
-Krankenhausplan und i.V.m. https://www.thueringen.de/mam/th7/tmsfg/gesundheit/krankenhauswesen/krankenhausplan_thueringen.pdf
+Krankenhausplan und i.V.m. https://www.tmasgff.de/fileadmin/user_upload/Gesundheit/Dateien/Krankenhaus/thueringer_krankenhausplan_stand_januar2020.pdf
 
 III. Th.VO Corona https://www.tmasgff.de/fileadmin/user_upload/Gesundheit/Dateien/COVID-19/3._ThuerSARS-CoV-2-EindmassnVO.pdf
 
