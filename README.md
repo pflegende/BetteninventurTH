@@ -158,6 +158,16 @@ We would like to encourage you to give us evidence and make suggestions, regardi
 ### to do / some notes to konsolidate:
 
 ---
+
+2024-10-12
+
+The Problem of availability of free beds is also a fast growing problem in germanies caring hospitals and day-care stations. We want to insert the solution as a fork of DIVI inside the lawmkers process in now running process PKG, the new law coming on.
+https://pads.ccc.de/ep/pad/view/ro.sJphzxyBTytJ6Bk1oY$APj$zr/latest
+
+ctrl-f is your friend: go to "divi" in the pads content
+You wnat contribute to the PKG change before it would be a valid law? Call us by issue or on mastodon or other chanels on linktr.ee/pflegende
+
+---
 2020-02-11
 
 seems are 2 upstreams of data in germany:
