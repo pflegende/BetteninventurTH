@@ -161,7 +161,7 @@ We would like to encourage you to give us evidence and make suggestions, regardi
 
 2024-10-12
 
-The Problem of availability of free beds is also a fast growing problem in germanies caring hospitals and day-care stations for elderly. We want to insert the solution as a fork of DIVI inside the lawmakers process in now running process PKG, the new law coming on.
+The Problem of availability of free beds is also a fast growing problem in germanies caring hospitals and day-care stations for elderly. We want to insert the solution as a fork of DIVI inside the lawmakers process in now running process PKG, before the new law coming on.
 https://pads.ccc.de/ep/pad/view/ro.sJphzxyBTytJ6Bk1oY$APj$zr/latest
 
 ctrl-f is your friend: go to "divi" in the pads content
